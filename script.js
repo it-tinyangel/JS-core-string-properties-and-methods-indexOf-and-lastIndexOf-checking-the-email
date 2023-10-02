@@ -9,4 +9,3 @@ if (atIndex !== 0 && atIndex !== -1 && dotIndex > atIndex) {
 } else {
 	console.log('Email isn\'t valid.');
 }
-
